@@ -1,0 +1,71 @@
+[35mapp/app.py[m[36m:[mimport [1;31msrc.[mrecommendation_engine as recommendation_engine
+[35mapp/app.py[m[36m:[mfrom [1;31msrc.[mjob_processing import process_all_jobs
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mpreprocessing import preprocess_text"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mresume_parser import extract_resume_text"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mresume_parser import extract_resume_text\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mpreprocessing import preprocess_text\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mskill_extraction import extract_skills\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mskill_extraction' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\skill_extraction.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_extraction as se\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_extraction as se\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_parser import extract_job_description\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mskill_matching import compare_skills"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mskill_matching' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\skill_matching.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_matching as sk\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mskill_matching import calculate_skill_match_percentage"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[msemantic_matching' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\semantic_matching.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[msemantic_matching as sm\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[msemantic_matching import calculate_semantic_similarity"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mmatch_score import calculate_hybrid_score"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mskill_gap' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\skill_gap.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_gap as skg\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mskill_gap import analyze_skill_gap"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mskill_recommendation' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\skill_recommendation.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_recommendation as sr\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mskill_recommendation import generate_skill_recommendations"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_loader import (\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mjob_loader' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\job_loader.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mjob_loader as jl\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_loader import load_all_jobs"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_processing import process_job"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mjob_processing' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\job_processing.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mjob_processing as jp\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_matching as sm\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[msemantic_matching as sem\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mmatch_score as ms\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mskill_matching' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\skill_matching.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_matching as sm\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_matcher import score_job"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mmatch_score as ms\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mmatch_score as ms\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[msemantic_matching as sem\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_matching as sm\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mrecommendation_engine import run_recommendation_pipeline"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mrecommendation_engine' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\recommendation_engine.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mrecommendation_engine as recommendation_engine\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m     "evalue": "module '[1;31msrc.[mrecommendation_engine' has no attribute 'recommend_from_resume'",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "\u001b[31mAttributeError\u001b[39m: module '[1;31msrc.[mrecommendation_engine' has no attribute 'recommend_from_resume'"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "[1;31msrc.[mpreprocessing\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "[1;31msrc.[mskill_extraction\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "[1;31msrc.[mjob_processing\n"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mpreprocessing as preprocessing\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mskill_extraction as skill_extraction\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mjob_processing as job_processing\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mrecommendation_engine' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\recommendation_engine.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "import [1;31msrc.[mrecommendation_engine as recommendation_engine\n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "[1;31msrc.[mresume_parser\n"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mrecommendation_engine' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\recommendation_engine.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m       "<module '[1;31msrc.[mrecommendation_engine' from 'd:\\\\Deepratim\\\\resume_screening_job_recommendation\\\\src\\\\recommendation_engine.py'>"
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m      "\u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[185]\u001b[39m\u001b[32m, line 3\u001b[39m\n\u001b[32m      1\u001b[39m \u001b[38;5;28;01mfrom\u001b[39;00m [1;31msrc.[mjob_processing \u001b[38;5;28;01mimport\u001b[39;00m process_all_jobs\n\u001b[32m      2\u001b[39m \n\u001b[32m----> \u001b[39m\u001b[32m3\u001b[39m test_jobs = process_all_jobs(\n\u001b[32m      4\u001b[39m     \u001b[33m\"../data/raw/job_descriptions\"\u001b[39m\n\u001b[32m      5\u001b[39m )\n\u001b[32m      6\u001b[39m \n",
+[35mnotebooks/01_nlp_basics.ipynb[m[36m:[m    "from [1;31msrc.[mjob_processing import process_all_jobs\n",
+[35msrc/job_matcher.py[m[36m:[mfrom [1;31msrc.[mskill_matching import (
+[35msrc/job_matcher.py[m[36m:[mfrom [1;31msrc.[msemantic_matching import (
+[35msrc/job_matcher.py[m[36m:[mfrom [1;31msrc.[mmatch_score import (
+[35msrc/job_processing.py[m[36m:[mfrom [1;31msrc.[mpreprocessing import preprocess_text
+[35msrc/job_processing.py[m[36m:[mfrom [1;31msrc.[mskill_extraction import extract_skills
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[mskill_matching import (
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[msemantic_matching import (
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[mmatch_score import (
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[mpreprocessing import preprocess_text
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[mskill_extraction import extract_skills
+[35msrc/recommendation_engine.py[m[36m:[mfrom [1;31msrc.[mresume_parser import extract_resume_text

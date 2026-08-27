@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
