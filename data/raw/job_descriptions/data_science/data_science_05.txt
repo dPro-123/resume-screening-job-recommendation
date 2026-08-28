@@ -1,0 +1,8 @@
+Predictive Analytics Scientist
+
+We are looking for a Predictive Analytics Scientist to build
+predictive models and extract insights from structured datasets.
+Required skills include Python, SQL, Pandas, statistics, machine
+learning, Scikit-learn, feature engineering, and data visualization.
+Experience with predictive analytics and model evaluation is
+preferred.

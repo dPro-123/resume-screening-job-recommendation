@@ -1,0 +1,7 @@
+Python Web Developer
+
+The Python Web Developer will build and maintain web applications
+using Python-based technologies. Required skills include Python,
+Flask, REST APIs, SQL, HTML, CSS, JavaScript, and Git. Experience
+with backend development, databases, and web application deployment
+is desirable.

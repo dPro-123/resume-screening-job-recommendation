@@ -1,0 +1,7 @@
+Machine Learning Research Assistant
+
+The Machine Learning Research Assistant will support experimental
+research in machine learning. Responsibilities include Python,
+machine learning, statistics, data analysis, algorithm
+implementation, experimentation, and technical literature review.
+Experience with Scikit-learn and scientific computing is desirable.

@@ -1,0 +1,7 @@
+Deep Learning Engineer
+
+We are seeking a Deep Learning Engineer to develop neural-network
+based solutions. The role involves Python programming, deep learning,
+neural networks, model training, TensorFlow, PyTorch, computer vision,
+experimentation, and Git. Candidates should understand model
+evaluation and optimization techniques.

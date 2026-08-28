@@ -1,0 +1,7 @@
+Data Science Researcher
+
+The Data Science Researcher will investigate data-driven methods and
+develop experimental models. Required skills include Python,
+statistics, machine learning, Pandas, NumPy, data analysis,
+experimental design, and scientific communication. Experience with
+research papers and reproducible experiments is preferred.

@@ -1,0 +1,7 @@
+Business Intelligence Analyst
+
+The Business Intelligence Analyst will develop dashboards and
+reports to support business decisions. The role requires SQL,
+Power BI, Tableau, Excel, data visualization, KPI development, and
+business analysis. Experience with data warehousing and reporting
+is beneficial.

@@ -1,0 +1,7 @@
+Computer Science Research Intern
+
+We are seeking a Computer Science Research Intern to assist in
+algorithm development and experimental evaluation. The role involves
+Python, algorithms, data structures, research methodology,
+experimentation, technical writing, and data analysis. The candidate
+will review research papers and document experimental findings.

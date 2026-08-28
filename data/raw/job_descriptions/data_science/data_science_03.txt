@@ -1,0 +1,7 @@
+Data Science Intern
+
+We are seeking a Data Science Intern to work with real-world
+datasets. The role involves Python, Pandas, NumPy, SQL, data
+cleaning, exploratory data analysis, visualization, statistics, and
+basic machine learning. Experience with Jupyter Notebook and
+Scikit-learn is preferred.

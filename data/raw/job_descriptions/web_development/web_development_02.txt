@@ -1,0 +1,7 @@
+Backend Developer
+
+The Backend Developer will design and develop server-side
+applications and APIs. Required skills include Python, Node.js,
+REST APIs, SQL, databases, Git, and backend development. The
+candidate will build scalable services, implement APIs, and work
+with relational databases.

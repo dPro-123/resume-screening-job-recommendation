@@ -1,0 +1,6 @@
+Business Data Analyst
+
+The Business Data Analyst will analyze operational and business
+datasets to support decision-making. Required skills include SQL,
+Excel, Power BI, data visualization, reporting, KPI analysis, and
+statistical analysis. Knowledge of Python and Pandas is desirable.

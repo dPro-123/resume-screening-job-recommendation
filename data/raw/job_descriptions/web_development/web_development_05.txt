@@ -1,0 +1,7 @@
+Web Development Intern
+
+We are looking for a Web Development Intern to assist in building
+and maintaining web applications. The role involves HTML, CSS,
+JavaScript, React, Python, SQL, Git, and REST APIs. The candidate
+will support frontend development, backend integration, debugging,
+and basic database operations.

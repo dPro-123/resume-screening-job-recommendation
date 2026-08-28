@@ -1,0 +1,7 @@
+Data Analyst
+
+We are looking for a Data Analyst to analyze business data and
+generate actionable insights. The role requires SQL, Excel, Python,
+Pandas, data cleaning, data visualization, and reporting. The
+candidate will create dashboards, analyze KPIs, identify trends,
+and communicate findings to business stakeholders.

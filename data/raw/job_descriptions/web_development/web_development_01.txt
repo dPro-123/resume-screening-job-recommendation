@@ -1,0 +1,7 @@
+Frontend Developer
+
+We are looking for a Frontend Developer to build responsive and
+interactive web applications. The role requires HTML, CSS,
+JavaScript, React, Git, and REST API integration. The candidate
+should understand component-based development, responsive design,
+and modern frontend development practices.

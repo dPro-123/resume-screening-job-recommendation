@@ -1,0 +1,7 @@
+Data Analytics Intern
+
+We are seeking a Data Analytics Intern to support data preparation,
+analysis, and reporting tasks. The position involves SQL, Excel,
+Python, Pandas, data visualization, dashboards, and exploratory data
+analysis. The candidate will assist in identifying trends and
+generating business insights.

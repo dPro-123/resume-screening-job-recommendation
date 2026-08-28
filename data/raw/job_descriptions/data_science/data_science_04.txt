@@ -1,0 +1,7 @@
+Applied Data Scientist
+
+The Applied Data Scientist will develop data-driven solutions using
+Python and machine learning. The position requires Pandas, NumPy,
+Scikit-learn, SQL, statistics, feature engineering, predictive
+modeling, data visualization, and model evaluation. Strong analytical
+and problem-solving skills are expected.

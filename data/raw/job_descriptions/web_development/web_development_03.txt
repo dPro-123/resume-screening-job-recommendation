@@ -1,0 +1,7 @@
+Full Stack Developer
+
+We are seeking a Full Stack Developer to develop complete web
+applications. The role requires JavaScript, React, Node.js, Python,
+SQL, REST APIs, Git, HTML, and CSS. The candidate will work across
+frontend and backend components and integrate web applications with
+databases.

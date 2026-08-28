@@ -1,0 +1,8 @@
+AI Research Intern
+
+We are looking for an AI Research Intern to assist with research
+projects involving machine learning and artificial intelligence.
+The role requires Python, machine learning, data analysis,
+experimentation, literature review, and scientific documentation.
+The candidate will implement algorithms, evaluate experiments, and
+analyze research results.

@@ -1,0 +1,7 @@
+Junior Data Scientist
+
+The Junior Data Scientist will support data analysis and predictive
+modeling projects. Responsibilities include Python programming,
+Pandas, NumPy, SQL, exploratory data analysis, statistics, data
+visualization, and Scikit-learn. Knowledge of machine learning and
+Git is desirable.

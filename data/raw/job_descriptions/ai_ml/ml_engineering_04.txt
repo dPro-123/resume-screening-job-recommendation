@@ -1,0 +1,7 @@
+Computer Vision Engineer
+
+We are looking for a Computer Vision Engineer to develop image and
+video processing applications. The role requires Python, computer
+vision, OpenCV, deep learning, PyTorch, image classification, object
+detection, and model evaluation. Experience with image preprocessing
+and neural networks is preferred.

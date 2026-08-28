@@ -1,0 +1,19 @@
+
+Machine Learning Intern
+
+We are looking for a Machine Learning Intern to work on
+data-driven machine learning projects.
+
+Responsibilities:
+- Prepare and analyze datasets.
+- Build and evaluate machine learning models.
+- Perform data preprocessing and feature engineering.
+- Work with Python and Scikit-learn.
+- Query and manipulate data using SQL.
+
+Requirements:
+- Strong Python programming skills.
+- Understanding of machine learning algorithms.
+- Knowledge of SQL.
+- Experience with Scikit-learn.
+- Good analytical and problem-solving skills.

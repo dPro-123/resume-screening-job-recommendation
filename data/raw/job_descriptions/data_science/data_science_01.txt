@@ -1,0 +1,8 @@
+Data Scientist
+
+We are looking for a Data Scientist to analyze complex datasets and
+build predictive models. The role requires Python, Pandas, NumPy,
+Scikit-learn, SQL, statistics, data visualization, and machine
+learning. The candidate will perform exploratory data analysis,
+feature engineering, model evaluation, and communicate insights to
+stakeholders.

@@ -1,0 +1,7 @@
+Product Data Analyst
+
+The Product Data Analyst will analyze product usage and customer
+behavior data. Responsibilities include SQL, Excel, Python, Pandas,
+data visualization, KPI analysis, A/B testing, and reporting.
+The candidate will work with product teams to identify trends and
+provide data-driven recommendations.

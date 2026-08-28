@@ -1,0 +1,8 @@
+AI Research Engineer
+
+The AI Research Engineer will develop and evaluate novel machine
+learning approaches through experimentation. The role requires
+Python, machine learning, deep learning, PyTorch, algorithm
+development, model evaluation, literature review, and technical
+documentation. Strong analytical and problem-solving skills are
+expected.
